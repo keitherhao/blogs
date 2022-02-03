@@ -1,0 +1,6 @@
+site_name: Keith's Blogs
+
+nav:
+  - index:  index.md
+  - about:  about.md
+  
